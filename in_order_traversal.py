@@ -39,7 +39,7 @@ class Node:
 
 
 root = Node(27)
-root.insert(14)
+root.insert(15)
 root.insert(35)
 root.insert(10)
 root.insert(19)
